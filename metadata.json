@@ -1,0 +1,5 @@
+{
+  "name": "Gemini AI Agents",
+  "description": "A mobile-first application featuring specialized, pre-prompted AI agents powered by the Google Gemini API. Includes login, usage limits, and a subscription model.",
+  "requestFramePermissions": []
+}
